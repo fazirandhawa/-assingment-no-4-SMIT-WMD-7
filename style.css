@@ -218,6 +218,7 @@ header{
 
 
 }
+
 .lists{
     display: flex;
     margin: 20px;
@@ -230,6 +231,9 @@ header{
     padding-top: 50px;
     margin-right: 50px;
 }
+
+
+/* ...............................................footer........................................... */
 #Subscribebtn{
     width: 120px;
     height: 35px;
